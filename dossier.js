@@ -141,15 +141,15 @@ infoRow("Sottocategoria",p.subcategory)+
 infoRow("Rischio",p.risk,p.riskClass)+ 
 infoRow("Controllo",p.control)+ 
 infoRow("Ereditarietà",p.inheritance)+'</div>'+'</div>'+ 
-'<div class="hb-box">'+'<div class="hb-box-title">Descrizione problema</div>'+'<div class="hb-box-body">'+safe(p.description)+'</div>'+'</div>'+ 
-'<div class="hb-triple">'+'<div class="hb-triple-box">'+'<div class="hb-small-title">Prima apparizione nota</div>'+'<div class="hb-small-text">'+safe(p.firstKnown)+'</div>'+ 
-'</div>'+'<div class="hb-triple-box">'+'<div class="hb-small-title">Come è stato notato</div>'+'<div class="hb-small-text">'+ 
+'<div class="hb-box">'+'<div class="hb-sectors-title">Descrizione problema</div>'+'<div class="hb-box-body">'+safe(p.description)+'</div>'+'</div>'+ 
+'<div class="hb-triple">'+'<div class="hb-triple-box">'+'<div class="hb-sectors-title">Prima apparizione nota</div>'+'<div class="hb-small-text">'+safe(p.firstKnown)+'</div>'+ 
+'</div>'+'<div class="hb-triple-box">'+'<div class="hb-sectors-title">Come è stato notato</div>'+'<div class="hb-small-text">'+ 
 safe(p.discovery)+'<br><br>'+ 
 safe(p.discoveryDetail)+'</div>'+'</div>'+ 
-'<div class="hb-triple-box">'+'<div class="hb-small-title">Esposizione pubblica</div>'+ 
+'<div class="hb-triple-box">'+'<div class="hb-sectors-title">Esposizione pubblica</div>'+ 
 '<div class="hb-small-text">'+safe(p.exposure)+'<br><br>'+safe(p.cover)+'</div>'+'</div>'+'</div>'+ 
-'<div class="hb-double">'+'<div class="hb-double-box">'+'<div class="hb-small-title">Trigger noti</div>'+'<div class="hb-small-text">'+safe(p.triggers)+'</div>'+'</div>'+ 
-'<div class="hb-double-box">'+'<div class="hb-small-title">Note</div>'+'<div class="hb-small-text">'+safe(p.notes)+'</div>'+'</div>'+'</div>'+ 
+'<div class="hb-double">'+'<div class="hb-double-box">'+'<div class="hb-sectors-title">Trigger noti</div>'+'<div class="hb-small-text">'+safe(p.triggers)+'</div>'+'</div>'+ 
+'<div class="hb-double-box">'+'<div class="hb-sectors-title">Note</div>'+'<div class="hb-small-text">'+safe(p.notes)+'</div>'+'</div>'+'</div>'+ 
 '<div class="hb-sectors">'+'<div class="hb-sectors-title">Chi sa della condizione</div>'+ 
 '<div class="hb-sector-grid">'+ 
 sectorBlock("Militia",p.militia)+ 
