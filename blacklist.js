@@ -1,7 +1,7 @@
 (function(){ 
  
 var perPage=3,currentPage=1,selectedKey=null; 
-var data = window.themisBlacklist||[]; 
+var data = window.cursed||[]; 
  
 var list=document.getElementById("th-list"), 
 pagination=document.getElementById("th-pagination"), 
