@@ -41,7 +41,48 @@ text:"Conoscono i trigger emotivi e forniscono supporto e monitoraggio."
 documents:"Rapporti maree anomale (2012-2024) · Albero genealogico famiglia Venn · Protocollo costa HB-7", 
 updated:"17/08/2026 - J. Coldman" 
 }, 
- 
+ { 
+key:"mare3a", 
+id:"HB-AF-0237", 
+image:"https://i.imgur.com/v4x38Df.png", 
+name:"Mara Venn", 
+age:"34 anni", 
+short:"34 anni", 
+occupation:"Capitana peschereccio", 
+residence:"Porto Vecchio, Havenridge Bay", 
+civil:"Nubile", 
+category:"Manipolazione", 
+categoryIcon:"&#8779;", 
+subcategory:"Idrologica", 
+risk:"III - ALTO", 
+riskClass:"risk-high", 
+noticed:"Evento in larga scala", 
+known:"Militia, Syndicate, Aid, Capo, Vice", 
+control:"Parziale", 
+inheritance:"Probabile", 
+description:"L’Afflitta altera inconsciamente le correnti marine e le maree in risposta a forti stati emotivi. In particolare quelli legati alla perdita o alla paura dell’abbandono. Il mare tende a riportare ciò che l’Afflitta sente di aver perso.", 
+firstKnown:"Incidente Venn, 2019", 
+discovery:"Evento in larga scala", 
+discoveryDetail:"Restituzione anomala di relitti, detriti e corpi in mare.", 
+exposure:"Media", 
+cover:"Copertura ufficiale: anomalia meteorologica e correnti di risacca.", 
+triggers:"Perdita di una persona cara · Paura dell’abbandono · Sensazione di colpa", 
+notes:"Durante manifestazioni intense, evitare che l’Afflitto si trovi vicino alla costa.", 
+militia:{ 
+icon:'<i class="fa-solid fa-shield"></i>', 
+text:"Conoscono gli effetti e i protocolli operativi." 
+}, 
+syndicate:{ 
+icon: '<i class="fa-solid fa-folder-open"></i>', 
+text:"Possiedono dati storici e rapporti sulle apparizioni della famiglia Venn." 
+}, 
+aid:{ 
+icon:'<i class="fa-solid fa-kit-medical"></i>', 
+text:"Conoscono i trigger emotivi e forniscono supporto e monitoraggio." 
+}, 
+documents:"Rapporti maree anomale (2012-2024) · Albero genealogico famiglia Venn · Protocollo costa HB-7", 
+updated:"17/08/2026 - J. Coldman" 
+}, 
  
 { 
 key:"elias", 
