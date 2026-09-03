@@ -35,7 +35,7 @@ var p = afflitti[i];
 var active = selectedKey === p.key ? " active" : ""; 
 html += '<div class="hb-record'+active+'" data-key="'+safe(p.key)+'">'+ 
 '<div class="hb-cell hb-list-id">'+safe(p.id)+'</div>'+'<div class="hb-cell hb-thumb">'+ 
-'<img src="'+safe(p.image)+'">'+'</div>'+'<div class="hb-cell hb-list-name">'+safe(p.name)+'<span>'+safe(p.short)+'</span>'+'</div>'+'<div class="hb-cell hb-category">'+safe(p.category)+'</div>'+'<div class="hb-cell hb-risk '+safe(p.riskClass)+'">'+safe(p.risk)+'</div>'+'<div class="hb-cell hb-noticed">'+safe(p.noticed)+'</div>'+'<div class="hb-cell hb-known">'+safe(p.known)+'</div>'+'<div class="hb-cell hb-chevron">›</div>'+'</div>'; } 
+'<img src="'+safe(p.image)+'">'+'</div>'+'<div class="hb-cell hb-list-name">'+safe(p.name)+'<span>'+safe(p.age)+'</span>'+'</div>'+'<div class="hb-cell hb-category">'+safe(p.category)+'</div>'+'<div class="hb-cell hb-risk '+safe(p.riskClass)+'">'+safe(p.risk)+'</div>'+'<div class="hb-cell hb-noticed">'+safe(p.noticed)+'</div>'+'<div class="hb-cell hb-known">'+safe(p.known)+'</div>'+'<div class="hb-cell hb-chevron">›</div>'+'</div>'; } 
  
 list.innerHTML = html; 
 count.innerHTML = afflitti.length + " RISULTATI"; 
