@@ -46,7 +46,7 @@ font-size: 35px; font-style: italic; line-height: 45px; letter-spacing: 1px; tex
  
 /* DATI PRINCIPALI */ 
 .th-data-grid {display:grid; grid-template-columns: 1fr 1.4fr; gap: 20px; margin-top: 12px} 
-.th-data-col:first-child {border-right: 1px solid #655D50; padding-right: 20px} 
+.th-data-col:first-child {border-right: 1px solid #655D50; padding-right: 20px; width: 100%;} 
 .th-field {padding: 7px 0 8px; border-bottom: 1px solid rgba(65, 59, 50, .35); } 
 .th-label, .th-section-title {display: block; font-family: "IBM Plex Mono", monospace; font-size: 10px; letter-spacing: 1px; font-weight:bold; text-transform:uppercase; margin-bottom: 5px}
 .th-value, .th-section-body {font-family: "Libre Baskerville", serif;} 
