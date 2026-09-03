@@ -58,10 +58,10 @@ font-size: 35px; font-style: italic; line-height: 45px; letter-spacing: 1px; tex
 .th-section-body p:last-child {margin-bottom: 0} 
  
 /* STATO */ 
-.th-status-live {color: #27372D} 
-.th-status-process {color: #684F26} 
-.th-status-dead {color: #5B211D} 
-.th-status-avoid {color: #3F354C} 
+.th-status-live {color: #189d4a} 
+.th-status-process {color: #b1853c} 
+.th-status-dead {color: #c12d23} 
+.th-status-avoid {color: #a79bb5} 
  
 /* MOBILE */ 
 @media screen and (max-width: 700px) {.th-row, 
