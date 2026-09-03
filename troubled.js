@@ -1,4 +1,45 @@
 window.troubled = [
+ {
+    "key": "asdfg",
+    "id": "asdfg",
+    "image": "",
+    "name": "aaa",
+    "age": "33",
+    "short": "",
+    "occupation": "sdfg",
+    "residence": "harbor avn",
+    "civil": "single",
+    "category": "bio",
+    "subcategory": "som",
+    "risk": "II - MEDIO",
+    "riskClass": "risk-medium",
+    "noticed": "autodenuncia",
+    "known": "AID",
+    "control": "prziale",
+    "inheritance": "confermata (lato materno)",
+    "description": "Attira il metallo.",
+    "firstKnown": "marzo 1996",
+    "discovery": "autodenuncia",
+    "discoveryDetail": "il soggetto ha notato strani comportamenti con le posate in cucina",
+    "exposure": "nessuna",
+    "cover": "nessuna copertuna richiesta",
+    "triggers": "biologico: nessun trigger necessario",
+    "notes": "sdfg va in giro con un mezzo emp per simulare un campo che respinge il metallo; sotto osservazione\n\naggiornamento agosto 1999: il dispositivo funziona\n\naggiornamento marzo 2026: il problema è nuovamente attivo, aggiornato il dispositivo",
+    "militia": {
+      "icon": "<i class=\"fa-solid fa-shield\"></i>",
+      "text": "//"
+    },
+    "syndicate": {
+      "icon": "<i class=\"fa-solid fa-folder-open\"></i>",
+      "text": "//"
+    },
+    "aid": {
+      "icon": "<i class=\"fa-solid fa-kit-medical\"></i>",
+      "text": "reparto a conoscenza per cure mediche ricevute nel marzo1996"
+    },
+    "documents": "blablbala",
+    "updated": "21/03/2026"
+  },
 { 
 key:"mara", 
 id:"HB-AF-0237", 
