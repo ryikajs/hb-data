@@ -48,8 +48,8 @@
 .hb-tab-code {padding-left: 12px; font-size: 18px; color: #86D3B3} 
  
 /* MAIN */ 
-.hb-main {display: grid; grid-template-columns: 250px 1.3fr 1.5fr; gap: 20px; padding: 10px 12px} 
-.hb-main-photo img {width: 250px; height: 180px; object-fit:cover; filter: grayscale(1); border: 1px solid #343934} 
+.hb-main {display: grid; grid-template-columns: 250px 1.8fr 1.3fr; gap: 20px; padding: 10px 12px} 
+.hb-main-photo img {width: 250px; height: 195px; object-fit:cover; filter: grayscale(1); border: 1px solid #343934} 
 .hb-main-datas {width: 100%} 
 .hb-main-name {font-size: 30px; color: #87D4B4; margin: 15px auto; text-transform:uppercase} 
 .hb-info-row {display: grid; grid-template-columns: 125px 1fr; gap: 8px; padding: 6px 0;  border-bottom: 1px solid #333; text-align: left !important; justify-items: start !important} 
