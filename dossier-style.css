@@ -87,7 +87,7 @@
 /* FOOTER DOSSIER */ 
 .hb-dossier-footer {display: grid; grid-template-columns: 1fr 250px; margin: 0 12px 10px; border: 1px solid #333; 
 border-top: none} 
-.hb-docs {padding: 8px 10px; color: #777} 
+.hb-docs {padding: 8px 10px; color: #777; width: 100%;} 
 .hb-docs strong {color: #86D3B3; font-weight: normal} 
 .hb-update {padding: 6px 10px; border-left: 1px solid #333; color: #777} 
 .hb-update strong {display: block; color: #86D3B3; font-weight:normal} 
