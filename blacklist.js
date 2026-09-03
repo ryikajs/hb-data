@@ -20,7 +20,7 @@ return String(v)
  
 function diamonds(n){ 
 var out=""; 
-for(var i=0;i<n;i++)out+="&#9670;"; 
+for(var i=0;i<n;i++)out+="◆"; 
 return out; 
 } 
  
